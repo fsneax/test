@@ -1,0 +1,1 @@
+onclick=document.getElementById(btn1).innerHTML = Date();
